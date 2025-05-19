@@ -11,7 +11,7 @@ Para compilar y ejecutar este proyecto, se necesita tener un compilador compatib
 1. **Clonar el Repositorio:** Clona este repositorio en tu máquina local.
 
     ```bash
-    git clone https://github.com/tu_usuario/tu_repositorio.git
+    git clone https://github.com/PepeGdlT/BackTracking_AED2.git
     ```
 
 2. **Compilar el Proyecto:** Abre una terminal, navega hasta el directorio del proyecto y compila el código.
